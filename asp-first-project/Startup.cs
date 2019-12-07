@@ -2,7 +2,6 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using asp_first_project.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -26,8 +25,8 @@ namespace asp_first_project
         public void ConfigureServices(IServiceCollection services)
         {
             //telling ASP whats going on
-            services.AddDbContext<ItemsContext>(options =>
-                options.UseSqlite(Configuration.GetConnectionString("ItemsContext")));
+            services.AddDbContext<ItemContext>(options =>
+                options.UseSqlite(Configuration.GetConnectionString("ItemContext")));
 
             services.AddRazorPages();
 

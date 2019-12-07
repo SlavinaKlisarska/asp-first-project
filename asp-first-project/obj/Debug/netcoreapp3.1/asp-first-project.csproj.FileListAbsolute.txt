@@ -146,3 +146,8 @@ C:\Users\Slavina\RiderProjects\asp-first-project\asp-first-project\bin\Debug\net
 C:\Users\Slavina\RiderProjects\asp-first-project\asp-first-project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Slavina\RiderProjects\asp-first-project\asp-first-project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Slavina\RiderProjects\asp-first-project\asp-first-project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Slavina\RiderProjects\asp-first-project\asp-first-project\obj\Debug\netcoreapp3.1\Razor\Pages\Items\Create.cshtml.g.cs
+C:\Users\Slavina\RiderProjects\asp-first-project\asp-first-project\obj\Debug\netcoreapp3.1\Razor\Pages\Items\Delete.cshtml.g.cs
+C:\Users\Slavina\RiderProjects\asp-first-project\asp-first-project\obj\Debug\netcoreapp3.1\Razor\Pages\Items\Details.cshtml.g.cs
+C:\Users\Slavina\RiderProjects\asp-first-project\asp-first-project\obj\Debug\netcoreapp3.1\Razor\Pages\Items\Edit.cshtml.g.cs
+C:\Users\Slavina\RiderProjects\asp-first-project\asp-first-project\obj\Debug\netcoreapp3.1\Razor\Pages\Items\Index.cshtml.g.cs

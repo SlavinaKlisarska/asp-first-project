@@ -11,11 +11,18 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="Data" t="Include">
           <e p="ItemContext.cs" t="Include" />
-          <e p="ItemsContext.cs" t="Include" />
+        </e>
+        <e p="Migrations" t="Include">
+          <e p="20191207111356_InitialCreate.cs" t="Include" />
+          <e p="20191207111356_InitialCreate.Designer.cs" t="Include" />
+          <e p="20191207185034_AddedAnnotations.cs" t="Include" />
+          <e p="20191207185034_AddedAnnotations.Designer.cs" t="Include" />
+          <e p="ItemContextModelSnapshot.cs" t="Include" />
         </e>
         <e p="Models" t="Include">
           <e p="Item.cs" t="Include" />
         </e>
+        <e p="MyCoolItems.db" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.1" t="Include">

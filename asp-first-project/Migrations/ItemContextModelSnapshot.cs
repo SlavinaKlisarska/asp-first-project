@@ -25,7 +25,9 @@ namespace asp_first_project.Migrations
                         .HasColumnType("TEXT");
 
                     b.Property<string>("name")
-                        .HasColumnType("TEXT");
+                        .IsRequired()
+                        .HasColumnType("TEXT")
+                        .HasMaxLength(20);
 
                     b.HasKey("id");
 
